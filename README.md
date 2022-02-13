@@ -44,28 +44,28 @@ With all of the required programs installed and running, the user can begin the 
 ## Evaluation Evidence
 
 ### Compile KaseiCoin.sol
-![KaseiCoinCompiled](EvaluationEvidence/KaseiCoinCompiled.png)
+![KaseiCoinCompiled](Evaluation_Evidence/KaseiCoinCompiled.png)
 
 ### Compile KaseiCoinCrowdsale.sol
-![KaseiCoinCrowdSaleCompiled](EvaluationEvidence/KaseiCoinCrowdSaleCompiled.png)
+![KaseiCoinCrowdSaleCompiled](Evaluation_Evidence/KaseiCoinCrowdSaleCompiled.png)
 
 ### Compile KaseiCoinCrowdsaleDeployer
-![KaseiCoinCrowdSaleDeployerCompiled](EvaluationEvidence/KaseiCoinCrowdSaleDeployerCompiled.png)
+![KaseiCoinCrowdSaleDeployerCompiled](Evaluation_Evidence/KaseiCoinCrowdSaleDeployerCompiled.png)
 
 ### Deploy KaseiCoin Using KaseiCoinDeployer Contract
-![KaseiCoinDeployed](EvaluationEvidence/KaseiCoinDeployed.png)
+![KaseiCoinDeployed](Evaluation_Evidence/KaseiCoinDeployed.png)
 
 ### Buy KaseiCoin Using Test Account
-![KaseiCoinBuyTokens](EvaluationEvidence/KaseiCoinBuyTokens.png)
+![KaseiCoinBuyTokens](Evaluation_Evidence/KaseiCoinBuyTokens.png)
 
 ### Check BalanceOf Test Account
-![KaseiCoinBalanceOf](EvaluationEvidence/KaseiCoinBalanceOf.png)
+![KaseiCoinBalanceOf](Evaluation_Evidence/KaseiCoinBalanceOf.png)
 
 ### Check Total Supply of KaseiCoin
-![KaseiCoinTotalSupply](EvaluationEvidence/KaseiCoinTotalSupply.png)
+![KaseiCoinTotalSupply](Evaluation_Evidence/KaseiCoinTotalSupply.png)
 
 ### Check Wei Raised by Contract
-![KaseiCoinWeiRaised](EvaluationEvidence/KaseiCoinWeiRaised.png)
+![KaseiCoinWeiRaised](Evaluation_Evidence/KaseiCoinWeiRaised.png)
 
 ---
 
