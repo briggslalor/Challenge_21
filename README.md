@@ -2,7 +2,7 @@
 
 KaseiCoin
 
-The goal of this project was to build and deploy the contracts required to create a new token, the KaseiCoin, ad deploy it to a test Ethereum etwork with. the ultimate goal of being used as a new cryptocurrency on Mars. To complete this task, a contract was written to create the KaseiCoin using inherited compliance with ERC20. Next, the Crowdsale and CrowdsaleDeployer contracts were written to allow the coin and the corwdsale to be deployed to the blockchain network and allow new accounts to interact with and buy the created KaseiCoin. 
+The goal of this project was to build and deploy the contracts required to create a new token, the KaseiCoin, ad deploy it to a test Ethereum network with the ultimate goal of being used as a new cryptocurrency on Mars. To complete this task, a contract was written to create the KaseiCoin using inherited compliance with ERC20. Next, the Crowdsale and CrowdsaleDeployer contracts were written to allow the coin and the crowdsale to be deployed to the blockchain network and allow new accounts to interact with and buy the created KaseiCoin. 
 
 ---
 
